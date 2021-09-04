@@ -1,0 +1,296 @@
+
+/*
+---------------------------------------------------------------------------------MAIN HEADING CSS <SCHOOL NAME>AND BACKGROUND--HEADER
+*/
+body{
+margin: 0px;
+width: 1600px;
+}
+
+
+
+/*
+-------------------------------------------------------------------------------ID SELECTORS------------
+*/
+#schoolname{
+font-family: monospace;
+font-size: 20px;
+margin-top: 3%;
+margin-left: 470px;
+color: black;
+
+}
+
+
+.logo-adjustments{
+  height: 200px;
+  width: 250px;
+  margin-left: 100px;
+position: absolute;
+}
+.schoolbus-adjustments{
+  height: 250px;
+  width:300px;
+  margin-left: 625px;
+
+}
+
+
+
+/*
+-----------------------------------------------------------------------------------CLASS SELECTORS------------------
+*/
+.mainpageheading{
+  background-color: #F5F5F5;
+ height:  120px;
+ width: 1600px;
+ position: fixed;
+ top: 0%;
+}
+
+.showcasegallery{
+  height: 500px;
+top: 80px;
+width: 1600px;
+
+}
+
+.imagesize{
+height: 400px;
+margin: 80px 0px 50px 200px;
+width: 700px;
+}
+
+.showcasegallery-inside{
+height: 400px;
+}
+.showcasegallery-text{
+ float: right;
+ margin-top: 130px;
+ margin-right: 200px;
+ font-size: 60px;
+}
+
+.welcoome-div{
+
+  width: 1600px;
+}
+
+.welcome-notice{
+  text-align: center;
+  font-size:50px;
+  color: #C40404;
+  text-transform: capitalize;
+  font-family: 'Ultra', serif;
+margin: 0px 300px 0px 300px;
+}
+
+.welcome-description{
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.hr-design{
+  border-style: none;
+  border-top: dotted;
+  width:50px;
+  border-width: 7px;
+}
+
+.elementary{
+  height: 600px;
+  width: 1600px;
+
+}
+.kidssidewall-adjustments{
+height: 500px;
+width: 700px;
+margin-left: 450px;
+}
+
+.class8-adjustments{
+  height: 500px;
+  width: 700px;
+  margin-left: 450px;
+}
+
+
+.life-socials{
+  font-family: 'Ultra', serif;
+  text-align: center;
+  font-size: 35px;
+  width: 1600px;
+  color: #C40404;
+}
+
+.life-socials-edit{
+  font-size: 20px;
+  font-family: sans-serif;
+  word-spacing: 20px;
+
+}
+.life-socials-edit:hover{
+
+  transform: scale(1.1);
+  transition: 0.6s;
+}
+/*
+--------------------------------------------------------------------------------ANCHOR TAGS/
+*/
+A{
+  text-decoration: none;
+}
+
+A:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+A:hover {
+  color: #FF8614;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+/*
+---------------------------------------------------------------------------------ANCHOR TAGS END/
+*/
+
+
+/*
+--------------------------------------------------------------------------------show case gallery second footer
+*/
+.showcase-gallery-footer{
+  height: 400px;
+  width: 1600px;
+  background-color: #f5f5f5;
+
+
+}
+
+
+.showcase-gallery-footer2{
+
+
+}
+
+.showcase-gallery-footer2:hover{
+
+opacity: 1;
+transition: 0.5s ease;
+
+
+}
+
+.showcase-gallery-footer3{
+
+
+}
+
+.showcase-gallery-footer3:hover{
+
+
+opacity: 1;
+transition:0.5s ease;
+transition-duration: 0.5s;
+
+}
+
+.showcase-gallery-3{
+
+
+}
+
+/*
+--------------------------------------------------------------------------------show case gallery footer end
+*/
+
+
+
+/*
+----------------------------------------------------------------------------------THE END OF PAGE DETAILSS
+*/
+.summary-div{
+  height: 250px;
+  width: 1600px;
+  background-color: #313131;
+
+}
+
+.summary-div-address{
+  float: left;
+  margin-top: 1%;
+    margin-left: 10%;
+      text-align: left;
+
+}
+.summary-div-aboutus{
+  text-align: left;
+  float: left;
+  margin-left: 5%;
+  margin-top: 1%;
+  position: relative;
+}
+
+.summary-div-getinvolved{
+  text-align: left;
+  float: left;
+  position: relative;
+margin-left: 5%;
+margin-top: 1%;
+}
+
+.summary-div-followus{
+  text-align: left;
+  float: left;
+  position: relative;
+margin-left: 5%;
+margin-top: 1%;
+}
+
+.summary-text-heading{
+font-family: sans-serif;
+font-weight: bolder;
+font-size: 20px;
+color: #FF6211;
+}
+
+.summary-text-desc{
+
+  color: #E0E0E0;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 40%;
+}
+.fa-facebook{
+  background: #0A97FF;
+ color: white;
+}
+.fa-twitter {
+  background: #13F8FF;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+/*
+_________________________________________________________________________________ABOUT US SECOND PAGES
+---------------------------------------------------------------------------------STARTS
+
+
+*/
