@@ -4,7 +4,7 @@
 */
 body{
 margin: 0px;
-width: 1600px;
+width: 1518px;
 }
 
 
@@ -54,7 +54,7 @@ animation-direction: alternate-reverse;
 .mainpageheading{
   background-color: #FF5F29;
  height:  120px;
- width: 1600px;
+ width: 1518px;
  position: fixed;
  top: 0%;
 }
@@ -155,7 +155,7 @@ animation-direction: alternate-reverse;
   height: 500px;
   background-blend-mode: darken;
 top: 80px;
-width: 1600px;
+width: 1518px;
 background-image: url("images/background.jpg.png");
 background-repeat: no-repeat;
 }
@@ -183,7 +183,7 @@ height: 400px;
 }
 .welcoome-div{
 
-  width: 1600px;
+  width: 1518px;
 }
 
 .welcome-notice{
@@ -226,7 +226,7 @@ margin: 0px 300px 0px 300px;
 
 .elementary{
   height: 600px;
-  width: 1600px;
+  width: 1518px;
 
 }
 .kidssidewall-adjustments{
@@ -246,7 +246,7 @@ margin-left: 450px;
   font-family: 'Ultra', serif;
   text-align: center;
   font-size: 35px;
-  width: 1600px;
+  width: 1518px;
   color: #C40404;
 }
 
@@ -364,7 +364,7 @@ filter: grayscale(100%);
 */
 .showcase-gallery-footer{
   height: 350px;
-  width: 1600px;
+  width: 1518px;
   background-color: white;
     overflow: auto;
 
@@ -385,7 +385,7 @@ filter: grayscale(100%);
 */
 .summary-div{
   height: 250px;
-  width: 1600px;
+  width: 1518px;
   background-color: #313131;
 
 }
