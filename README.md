@@ -1,2 +1,0 @@
-# SKPS
-school website
