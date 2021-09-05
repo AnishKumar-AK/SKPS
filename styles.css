@@ -171,9 +171,8 @@ animation-direction: alternate-reverse;
 
 
 .showcasegallery{
-  height: 500px;
-  background-blend-mode: darken;
-top: 80px;
+height: 500px;
+background-blend-mode: darken;
 width: 1518px;
 background-image: url("images/background.jpg.png");
 background-repeat: no-repeat;
@@ -185,8 +184,8 @@ height: 400px;
 }
 .showcasegallery-text{
  float: right;
- margin-top: 160px;
- margin-right: 200px;
+ margin-top: 12%;
+ margin-right: 8%;
  font-size: 80px;
  animation-name: showcasetext;
  animation-duration: 2s;
@@ -412,7 +411,7 @@ filter: grayscale(100%);
 .summary-div-address{
   float: left;
   margin-top: 1%;
-    margin-left: 10%;
+    margin-left: 13%;
       text-align: left;
 
 }
