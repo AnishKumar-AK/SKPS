@@ -274,7 +274,7 @@ a{
 }
 
 a:visited {
-  color: black;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
@@ -284,7 +284,7 @@ a:hover {
   text-decoration: none;
 }
 a:link{
-  color: black;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
