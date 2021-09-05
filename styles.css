@@ -22,6 +22,8 @@ color: black;
 }
 
 
+
+
 .logo-adjustments{
   height: 140px;
   width: 200px;
@@ -56,6 +58,87 @@ animation-direction: alternate-reverse;
  position: fixed;
  top: 0%;
 }
+
+
+.pagetheme-bck{
+height: 250px;
+background-image: url("images/book.png");
+}
+
+.prince-mess{
+  color: white;
+  float: left;
+  margin-top: 5%;
+  margin-right: 200px;
+  margin-left: 11%;
+  font-size: 40px;
+  font-family:monospace;
+  font-weight: bolder;
+}
+.prince-mess-2{
+  float: left;
+  height: 40px;
+  width: 180px;
+  color: white;
+  margin-top: 1%;
+  margin-left: 30%;
+  border-color: white;
+  background-color: white;
+  border-style: solid;
+  border-width: thick;
+}
+.prince-mess-2:hover{
+
+  animation-name: messdivsidth;
+animation-iteration-count: infinite;
+animation-direction: alternate;
+  animation-duration: 1s;
+  background-color: orange;
+}
+
+
+
+.prince-mess-2:hover{
+background-color: orange;
+}
+
+@keyframes messdivsidth {
+  from{border-color: white;}
+    to{border-color: orange;}
+}
+.prince-mess-2-text{
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.prince-mess-2-text:hover{
+  color: white ;
+
+}
+
+
+.vice-prince-mess{
+  float: left;
+  height: 40px;
+  width: 180px;
+  margin-top: 1%;
+  margin-left: 2%;
+  border-color: white;
+  background-color: white;
+  border-style: solid;
+      border-width: thick;
+}
+.vice-prince-mess:hover{
+  animation-name: messdivsidth;
+animation-iteration-count: infinite;
+animation-direction: alternate;
+  animation-duration: 1s;
+  background-color: orange;
+
+}
+
+
 
 .star-main-heading{
 
@@ -130,6 +213,22 @@ margin: 0px 300px 0px 300px;
   border-width: 7px;
 }
 
+.hr-design-1{
+  border-style: none;
+  border-top: dotted;
+  width:30px;
+  border-width: 7px;
+
+}
+.hr-design-2{
+  width:900px;
+  border-width: 2px;
+
+
+}
+
+
+
 .elementary{
   height: 600px;
   width: 1600px;
@@ -170,22 +269,72 @@ margin-left: 450px;
 /*
 --------------------------------------------------------------------------------ANCHOR TAGS/
 */
-A{
+a{
   text-decoration: none;
 }
 
-A:visited {
-  color: black;
+a:visited {
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
-
-A:hover {
+a:hover {
   color: #FF8614;
   background-color: transparent;
   text-decoration: none;
 }
+a:link{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
 
+
+.a1{
+  text-decoration: none;
+}
+
+.a1:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.a1:hover {
+  color: #FF8614;
+  background-color: transparent;
+  text-decoration: none;
+}
+.a1:link{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.a1:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.a3{
+  text-decoration:none;
+}
+.a3:visited{
+  color: black;
+}
+.a3:hover{
+  color: white;
+}
+
+.a3:link{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
 /*
 ---------------------------------------------------------------------------------ANCHOR TAGS END/
 */
@@ -284,12 +433,16 @@ font-size: 20px;
 color: #FF6211;
 }
 
+
 .summary-text-desc{
 
-  color: #E0E0E0;
+  color: white;
   font-weight: bolder;
   font-family: sans-serif;
 }
+
+
+
 
 .fa {
   padding: 20px;
@@ -300,19 +453,19 @@ color: #FF6211;
   border-radius: 40%;
 }
 .fa-facebook{
-  background: #0A97FF;
+  background: transparent;
  color: white;
 }
 .fa-twitter {
-  background: #13F8FF;
+  background: transparent;
   color: white;
 }
 .fa-youtube {
-  background: #bb0000;
+  background: transparent;
   color: white;
 }
 .fa-instagram {
-  background: #125688;
+  background: transparent;
   color: white;
 }
 /*
