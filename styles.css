@@ -67,21 +67,22 @@ background-image: url("images/book.png");
 
 .prince-mess{
   color: white;
+  opacity: 70%;
   float: left;
-  margin-top: 5%;
+  margin-top: 4%;
   margin-right: 200px;
   margin-left: 11%;
   font-size: 40px;
-  font-family:monospace;
+  font-family:sans-serif;
   font-weight: bolder;
 }
 .prince-mess-2{
   float: left;
   height: 50px;
-  width: 220px;
+  width: 300px;
   color: white;
   margin-top: 1%;
-  margin-left: 26%;
+  margin-left: 17%;
   border-color: white;
   background-color: white;
   border-style: solid;
@@ -105,18 +106,36 @@ animation-direction: alternate;
   color: black;
   font-size: 20px;
   font-weight: bold;
-  text-align: center;
+  margin-left: auto;
+  width: 60%;
+  padding: 10px;
+  font-family: sans-serif;
+  padding-left: 15px;
 }
+.prince-mess-2-inside{
+margin-top: 4%;
+margin-left: 7%;
+width: 88%;
+}
+.prince-mess-3-inside{
+  margin-top: 4%;
+  margin-left: 35%;
+  width: 88%;
+}
+
+
 .prince-mess-2-text:hover{
   color: white ;
 
 }
 
 
+
+
 .vice-prince-mess{
   float: left;
   height: 50px;
-  width: 220px;
+  width: 300px;
   margin-top: 1%;
   margin-left: 2%;
   border-color: white;
