@@ -1,0 +1,139 @@
+
+@media only screen and (max-width:700px) {
+  nav{
+    display: none;
+  }
+  .menu-slider{
+    display: block;
+    margin-left: 100px;
+    padding-right: 0%;
+    font-size: 90px;
+  }
+  .logo-ad{
+    margin-left: 45px;
+    width: 450px;
+    margin-top: 15px;
+  }
+  .top-header-container{
+    min-height:150px;
+  }
+  .container-1{
+    width: 725px;
+    height: 400px;
+  }
+  .container-1-text{
+    margin-left: 20px;
+  }
+  .hr-design{
+    display: none;
+  }
+  .container-3{
+    width: 700px;
+  }
+  .container-3-text{
+    font-size: 65px;
+  }
+
+  .container-4{
+    width: 700px;
+  }
+  .container-4-text{
+    font-size: 37px;
+  }
+  .container-5{
+    height: 500px;
+  }
+  .container-5-image{
+    width: 725px;
+  }
+  .container-6{
+    height: 500px;
+  }
+  .container-6-image{
+    width: 725px;
+  }
+
+  .container-7{
+    width: 700px;
+    height: 250px;
+  }
+  .container-7-text{
+    font-size: 65px;
+    padding-top: 0%;
+  }
+  .container-8{
+    width: 700px;
+  }
+  .container-10{
+    width:725px;
+    height: 1400px;
+  }
+  .container-10-address-tab{
+    width: 700px;
+  }
+  .container-10-address-text{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 28px;
+  }
+  .container-10-address-heading{
+    width: 400px;
+    font-size: 35px;
+    padding-left: 60px;
+    text-align:left;
+  }
+  .container-10-aboutus-tab{
+    width: 700px;
+    margin-top: 70px;
+  }
+  .container-10-aboutus-text{
+    text-align: left;
+    padding-left: 40px;
+    font-size: 28px;
+  }
+  .container-10-aboutus-heading{
+    width: 400px;
+    font-size: 35px;
+    padding-left: 90px;
+    text-align:left;
+  }
+  .container-10-ge-tab{
+    width: 700px;
+  }
+  .container-10-ge-text{
+    text-align: left;
+    padding-left: 40px;
+    font-size: 28px;
+  }
+  .container-10-ge-heading{
+    width: 400px;
+    font-size: 35px;
+    padding-left: 80px;
+    text-align:left;
+  }
+  .container-10-follow-tab{
+    width: 700px;
+  }
+  .container-10-follow-text{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 28px;
+    padding-left: 40px;
+  }
+  .container-10-follow-heading{
+    width: 400px;
+    font-size: 35px;
+    padding-left: 80px;
+    text-align:left;
+  }
+  .container-10-follow-icons{
+    font-size: 60px;
+    width: 60%;
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+
+  }
+
+}
