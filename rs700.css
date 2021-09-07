@@ -5,14 +5,14 @@
   }
   .menu-slider{
     display: block;
-    margin-left: 100px;
+    margin-left: 230px;
     padding-right: 0%;
-    font-size: 90px;
+    font-size: 80px;
   }
   .logo-ad{
     margin-left: 45px;
-    width: 450px;
-    margin-top: 15px;
+    width: 330px;
+    margin-top: 0px;
   }
   .top-header-container{
     min-height:150px;
@@ -112,7 +112,7 @@
     text-align:left;
   }
   .container-10-follow-tab{
-    width: 700px;
+    width: 400px;
   }
   .container-10-follow-text{
     text-align: left;
@@ -121,7 +121,7 @@
     padding-left: 40px;
   }
   .container-10-follow-heading{
-    width: 400px;
+    width: 375px;
     font-size: 35px;
     padding-left: 80px;
     text-align:left;
