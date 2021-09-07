@@ -5,15 +5,15 @@
   }
   .menu-slider{
     display: block;
-    margin-left: 150px;
+    margin-left: 90px;
     padding-right: 0%;
-    font-size: 40px;
-    margin-top: 50px;
+    font-size: 55px;
+    margin-top: 40px;
   }
   .logo-ad{
     margin-left: 25px;
-    width: 180px;
-    margin-top: 27px;
+    width: 200px;
+    margin-top: 0px;
   }
   .top-header-container{
     min-height:165px;
@@ -82,6 +82,7 @@
     text-align: left;
     padding-left: 10px;
     font-size: 22px;
+    font-weight: lighter;
   }
   .container-10-address-heading{
     width: 375px;
@@ -97,6 +98,7 @@
     text-align: left;
     padding-left: 30px;
     font-size: 28px;
+    font-weight: lighter;
   }
   .container-10-aboutus-heading{
     width: 375px;
@@ -111,6 +113,7 @@
     text-align: left;
     padding-left: 30px;
     font-size: 25px;
+    font-weight: lighter;
   }
   .container-10-ge-heading{
     width: 375px;
@@ -126,6 +129,7 @@
     padding-left: 10px;
     font-size: 28px;
     padding-left: 30px;
+    font-weight: lighter;
   }
   .container-10-follow-heading{
     width:375px;
