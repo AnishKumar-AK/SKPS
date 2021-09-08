@@ -4,20 +4,19 @@
     display: none;
   }
   .menu-slider{
-    display: block;
-    margin-left: 40px;
-    padding-right: 0%;
-    font-size: 55px;
+    margin-left: 40%;
+    width: 50px;
+    float: left;
     margin-top: 40px;
   }
   .logo-ad{
-    margin-left: 15px;
+    margin-left: 10px;
     width: 280px;
-    margin-top: 0px;
+    margin-top: 50px;
   }
   .top-header-container{
     min-height:165px;
-    background-color: orange;
+    background-color: white;
     width: 405px;
   }
   .container-1{
@@ -76,7 +75,7 @@
   }
   .container-10{
     width:400px;
-    height: 1400px;
+    height: 1300px;
   }
   .container-10-address-tab{
     width: 375px;
