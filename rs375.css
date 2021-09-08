@@ -16,11 +16,10 @@
   }
   .top-header-container{
     min-height:165px;
-    background-color: white;
-    width: 405px;
+    width: 400px;
   }
   .container-1{
-    width: 405px;
+    width: 401px;
     height: 400px;
   }
   .container-1-text{
@@ -76,7 +75,7 @@
     padding-left: 10px;
   }
   .container-10{
-    width:400px;
+    width:401px;
     height: 1300px;
   }
   .container-10-address-tab{
