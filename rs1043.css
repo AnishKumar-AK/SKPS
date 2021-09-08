@@ -1,0 +1,40 @@
+@media only screen and (max-width:1043px) {
+  .logo-ad{
+    margin-left: 5px;
+  }
+}
+
+@media only screen and (max-width:925px) {
+  nav ul li{
+    margin-right: 40px;
+  }
+
+
+}
+
+@media  only screen and (max-width:775px){
+  nav ul li{
+    margin-right: 20px;
+  }
+
+  .logo-ad{
+    margin-left: 5px;
+  }
+}
+
+@media  only screen and (max-width:1077px){
+  .container-1-text{
+    margin-left: 300px;
+  }
+}
+@media  only screen and (max-width:877px){
+  .container-1-text{
+    margin-left: 150px;
+  }
+}
+
+@media  only screen and (max-width:727px){
+  .container-1-text{
+    margin-left: 70px;
+  }
+}

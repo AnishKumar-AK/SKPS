@@ -24,7 +24,9 @@
     height: 400px;
   }
   .container-1-text{
-    margin-left: 20px;
+    margin-left: 0%;
+    font-size: 20px;
+    padding-right: 13%;
   }
   .hr-design{
     display: none;
@@ -34,12 +36,12 @@
   }
   .container-3-text{
     font-size: 50px;
-    padding-left: 10px;
+    padding-left: 0px;
   }
 
   .container-4{
     width: 395px;
-    padding-left: 10px;
+    padding-left: 0px;
   }
   .container-4-text{
     font-size: 28px;
@@ -63,7 +65,7 @@
   .container-7{
     width: 395px;
     height: 200px;
-    padding-left: 10px;
+    padding-left: 0px;
   }
   .container-7-text{
     font-size: 50px;

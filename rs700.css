@@ -33,6 +33,7 @@
   }
   .container-3-text{
     font-size: 65px;
+    padding-left: 2%;
   }
 
   .container-4{
@@ -40,6 +41,7 @@
   }
   .container-4-text{
     font-size: 37px;
+    padding-left: 2%;
   }
   .container-5{
     height: 500px;
@@ -61,9 +63,11 @@
   .container-7-text{
     font-size: 65px;
     padding-top: 0%;
+    padding-left: 3%;
   }
   .container-8{
     width: 700px;
+    padding-left: 3%;
   }
   .container-10{
     width:725px;
