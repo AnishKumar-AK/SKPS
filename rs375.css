@@ -5,21 +5,23 @@
   }
   .menu-slider{
     display: block;
-    margin-left: 90px;
+    margin-left: 40px;
     padding-right: 0%;
     font-size: 55px;
     margin-top: 40px;
   }
   .logo-ad{
-    margin-left: 25px;
-    width: 200px;
+    margin-left: 15px;
+    width: 280px;
     margin-top: 0px;
   }
   .top-header-container{
     min-height:165px;
+    background-color: orange;
+    width: 405px;
   }
   .container-1{
-    width: 400px;
+    width: 405px;
     height: 400px;
   }
   .container-1-text{
@@ -29,7 +31,7 @@
     display: none;
   }
   .container-3{
-    width: 375px;
+    width: 395px;
   }
   .container-3-text{
     font-size: 50px;
@@ -37,7 +39,7 @@
   }
 
   .container-4{
-    width: 375px;
+    width: 395px;
     padding-left: 10px;
   }
   .container-4-text{
@@ -47,19 +49,20 @@
     height: 300px;
   }
   .container-5-image{
-    width: 375px;
+    width: 395px;
     height: 310px;
   }
   .container-6{
     height: 300px;
+    width: 405px;
   }
   .container-6-image{
-    width: 375px;
+    width: 395px;
     height: 300px;
   }
 
   .container-7{
-    width: 375px;
+    width: 395px;
     height: 200px;
     padding-left: 10px;
   }
@@ -142,7 +145,7 @@
     width: 50%;
     height: 10px;
     margin-top: 0px;
-    margin-bottom: 25px;
+    margin-bottom:100px;
   }
 
 }
