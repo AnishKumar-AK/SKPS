@@ -22,7 +22,7 @@
           <div class="menu-icon">
             <a href="index.html"><img class="logo-ad"src="images/logo.png" alt="schoollogo"><a/>
               <nav>
-                <ul>
+                <ul id="menulist">
                   <li ><a href="#">Admission</a></li>
                   <li class="active"><a href="principalsmessage.html">About Us</a></li>
                   <li><a href="#">Galley</a></li>
@@ -161,6 +161,30 @@
     </div>
 
 </div>
+
+
+
+
+
+<script>
+  var menulist = document.getElementById("menulist");
+
+  menulist.style.height = "0px";
+
+  function togglemenu() {
+
+    if (menulist.style.height == "0px") {
+      menulist.style.height = "180px"
+    }
+    else {
+      menulist.style.height = "0px"
+    }
+
+  }
+
+</script>
+
+
 
       <!--
     ___THE END___#DESIGNED BY insta - "_ig_nish" ->ANISH KUMAR

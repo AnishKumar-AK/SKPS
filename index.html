@@ -16,24 +16,33 @@
 
   <body>
 
+<div class="header-timings">
+  <div class="header-timings-text">
+    <span style="color:orange;">OPEN TIME: </span><span> 8:00am to 12:30pm</span>
+  </div>
+</div>
+
+
+
 <div class="top-header-container">
         <div class="menu-icon">
           <a href="index.html"><img class="logo-ad"src="images/logo.png" alt="schoollogo"><a/>
             <nav>
-              <ul>
+              <ul id="menulist">
                 <li><a href="#">Admission</a></li>
                 <li><a href="principalsmessage.html">About Us</a></li>
                 <li><a href="#">Galley</a></li>
                 <li><a href="#">Facility</a></li>
               </ul>
             </nav>
-            <p><img class="menu-slider" src="images/navslider.png" alt="navigation-button"
-                    onclick="togglemenu()"></p>
+            <p><img class="menu-slider" src="images/navslider1.png" alt="navigation-button" onclick="togglemenu()">
+            </p>
           </div>
 </div>
 
 <div class="container-1">
   <div class="container-1-background">
+    <img class="container-1-background-image" src="images/1.png" alt="school building">
     <div class="container-1-text">
     <h1>  Making lives better !</h1>
     </div>
@@ -68,7 +77,7 @@
 
 <div class="container-7">
   <div class="conatiner-7-inside">
-      <p class="container-7-text">! Life at our school !</p>
+      <p class="container-7-text">Life at our school</p>
     </div>
 </div>
 
@@ -147,7 +156,23 @@
 
 </div>
 
+  <script>
+    var menulist = document.getElementById("menulist");
 
+    menulist.style.height = "0px";
+
+    function togglemenu() {
+
+      if (menulist.style.height == "0px") {
+        menulist.style.height = "180px"
+      }
+      else {
+        menulist.style.height = "0px"
+      }
+
+    }
+
+  </script>
 
   </body>
 

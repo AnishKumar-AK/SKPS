@@ -1,10 +1,17 @@
 
 @media only screen and (max-width:400px) {
+
+  .header-timings{
+    display: block;
+  }
+  nav{
+    display: block;
+  }
   nav ul{
-    width:362px;
+    width:365px;
     background:#E6E6E6;
     position: absolute;
-    top: 100px;
+    top:150px;
     right: 20px;
     left: 0%;
   }
@@ -12,8 +19,9 @@
   nav ul li{
     display: block;
     margin-right: 0px;
-    padding-right: 1px;
-    margin-left: 0px;
+    padding-right: 2px;
+    margin-left: 3px;
+    padding-top: 10px;
     margin-bottom: 15px;
   }
   nav ul li a{
@@ -39,9 +47,19 @@
   }
   .container-1{
     width: 401px;
-    height: 400px;
+    height: 200px;
   }
+.container-1-background{
+  height: 200px;
+  width: 401px;
+}
+.container-1-background-image{
+  width:100%;
+  height: 300px;
+}
+
   .container-1-text{
+    display: none;
     margin-left: 0%;
     font-size: 20px;
     padding-right: 13%;
@@ -65,6 +83,7 @@
     font-size: 28px;
   }
   .container-5{
+    display: none;
     height: 300px;
   }
   .container-5-image{
@@ -72,6 +91,7 @@
     height: 310px;
   }
   .container-6{
+    display: none;
     height: 300px;
     width: 405px;
   }
@@ -86,8 +106,8 @@
     padding-left: 0px;
   }
   .container-7-text{
-    font-size: 50px;
-    padding-top: 0%;
+    font-size: 35px;
+    padding-top: 15%;
   }
   .container-8{
     width: 375px;
@@ -203,6 +223,10 @@
   .prince-mess-2{
     display: none;
     padding-left: 30px;
+  }
+  #menulist{
+    overflow: hidden;
+    transition: 0.5s;
   }
 
 }
