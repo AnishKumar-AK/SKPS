@@ -49,17 +49,20 @@ nav ul li a{
 nav ul li a:hover{
   color: orange;
 }
+.active{
+  font-weight: bolder;
+}
 
 .container-1{
     height: 400px;
     width: 100%;
     display: flex;
+    background-image: url("images/background.jpg.png");
 }
 
 .container-1-background{
-  width: 100%;
+  width:100%;
   height: 400px;
-  background-image: url("images/background.jpg.png");
   background-repeat: no-repeat;
 }
 
