@@ -9,7 +9,7 @@
   }
   nav ul{
     width:365px;
-    background:#E6E6E6;
+    background:#710000;
     position: absolute;
     top:150px;
     right: 20px;
@@ -25,7 +25,7 @@
     margin-bottom: 15px;
   }
   nav ul li a{
-    color:black;
+    color:white;
     font-weight: bolder;
   }
   .menu-slider{
@@ -67,11 +67,15 @@
   .hr-design{
     display: none;
   }
+  hr{
+    display: none;
+  }
   .container-3{
     width: 395px;
+    height: 80px
   }
   .container-3-text{
-    font-size: 50px;
+    font-size: 30px;
     padding-left: 0px;
   }
 
@@ -80,25 +84,30 @@
     padding-left: 0px;
   }
   .container-4-text{
-    font-size: 28px;
+    font-size: 16px;
   }
   .container-5{
-    display: none;
-    height: 300px;
+    height: 1300px;
+    width: 401px;
   }
-  .container-5-image{
-    width: 395px;
-    height: 310px;
+  .nursury{
+        margin-left: 7%;
+        width: 350px;
+        height: 400px;
   }
-  .container-6{
-    display: none;
-    height: 300px;
-    width: 405px;
+  .primary{
+    margin-left: 7%;
+    margin-top: 5%;
+    width: 350px;
+    height: 400px;
   }
-  .container-6-image{
-    width: 395px;
-    height: 300px;
+  .juniors{
+    margin-left: 7%;
+    margin-top: 5%;
+    width: 350px;
+    height: 400px;
   }
+
 
   .container-7{
     width: 395px;
@@ -107,11 +116,12 @@
   }
   .container-7-text{
     font-size: 35px;
-    padding-top: 15%;
+    padding-top: 20px;
   }
   .container-8{
     width: 375px;
     padding-left: 10px;
+    padding-top: 0px;
   }
   .container-10{
     width:401px;
