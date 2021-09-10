@@ -2,6 +2,27 @@
   .logo-ad{
     margin-left: 5px;
   }
+  .nursury{
+    margin-left: 7%;
+    height: 430px;
+  }
+  .nursury-div{
+    height: 350px;
+  }
+  .primary{
+    margin-left: 7%;
+    height: 430px;
+  }
+  .primary-div{
+    height:350px;
+  }
+  .juniors{
+    margin-left: 7%;
+    height: 430px;
+  }
+  .juniors-div{
+    height: 350px;
+  }
 }
 
 @media only screen and (max-width:925px) {
@@ -27,10 +48,11 @@
     margin-left: 300px;
   }
 }
-@media  only screen and (max-width:877px){
+@media  only screen and (max-width:878px){
   .container-1-text{
     margin-left: 150px;
   }
+
 }
 
 @media  only screen and (max-width:727px){
