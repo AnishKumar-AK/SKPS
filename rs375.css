@@ -129,68 +129,73 @@
   }
   .container-10-address-tab{
     width: 375px;
+    height: 200px;
   }
   .container-10-address-text{
     text-align: left;
     padding-left: 10px;
-    font-size: 22px;
+    font-size: 17px;
     font-weight: lighter;
   }
   .container-10-address-heading{
     width: 375px;
-    font-size: 30px;
+    font-size: 20px;
     padding-left: 15px;
     text-align:left;
   }
   .container-10-aboutus-tab{
     width: 375px;
-    margin-top: 50px;
+    margin-top: 0px;
+    height: 150px;
   }
   .container-10-aboutus-text{
     text-align: left;
     padding-left: 30px;
-    font-size: 28px;
+    font-size: 17px;
     font-weight: lighter;
   }
   .container-10-aboutus-heading{
     width: 375px;
-    font-size: 30px;
+    font-size: 20px;
     padding-left: 30px;
     text-align:left;
   }
   .container-10-ge-tab{
     width: 375px;
+    height: 200px;
+    margin-top: 0px;
   }
   .container-10-ge-text{
     text-align: left;
     padding-left: 30px;
-    font-size: 25px;
+    font-size: 17px;
     font-weight: lighter;
   }
   .container-10-ge-heading{
     width: 375px;
-    font-size: 30px;
+    font-size: 20px;
     padding-left: 30px;
     text-align:left;
   }
   .container-10-follow-tab{
     width: 375px;
+    height: 250px;
   }
   .container-10-follow-text{
     text-align: left;
     padding-left: 10px;
-    font-size: 28px;
+    font-size: 17px;
     padding-left: 30px;
     font-weight: lighter;
   }
   .container-10-follow-heading{
     width:375px;
-    font-size: 30px;
+    font-size: 20px;
     padding-left: 30px;
     text-align:left;
   }
   .container-10-follow-icons{
-    font-size: 40px;
+    font-size: 30px;
     width: 50%;
     height: 10px;
     margin-top: 0px;
