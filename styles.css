@@ -4,10 +4,9 @@ padding: 0;
 font-family: sans-serif;
 }
 .header-timings{
-  display: none;
   background-color: #710000 ;
   height: 50px;
-  width: 400px;
+  width: 100%;
   margin-bottom: 0%;
 }
 .header-timings-text{
@@ -18,36 +17,33 @@ font-family: sans-serif;
   color: white;
   font-weight: bolder;
   animation: timemove;
-  animation-duration: 5s;
+  animation-duration: 7s;
   animation-iteration-count: infinite;
   animation-direction: alternate-reverse;
 }
 
 @keyframes timemove {
   from{
-    padding-right: 30%;
+    padding-right: 40%;
   }
   to{
-    padding-left: 30%;
+    padding-left: 40%;
   }
 }
 
 .top-header-container{
   width: 100%;
-  min-height: 100px;
+  min-height: 140px;
   padding-left: 0%;
   padding-right: 0%;
+  position: relative;
 }
+
 
 .menu-icon{
   width: 100%;
   display: flex;
   align-items: center;
-}
-.logo-ad{
-  width: 18rem;
-  cursor: pointer;
-  margin: 20px 0px 0px 150px;
 }
 
 .menu-slider{
@@ -56,7 +52,11 @@ font-family: sans-serif;
   margin-right: 70px;
   display: none;
 }
-
+.logo-ad{
+  width:12rem;
+  margin: 0px 0px 0px 150px;
+  position: absolute;
+}
 nav{
   flex: 1;
   text-align: right;
@@ -66,7 +66,7 @@ nav ul li {
   list-style: none;
   display: inline-block;
   margin-right: 70px;
-  margin-top: 0px;
+  margin-top: 50px;
 }
 
 nav ul li a{
@@ -217,39 +217,6 @@ nav ul li a:hover{
 .juniors-heading{
   font-size: 25px;
 }
-
-.container-7{
-  align-items:center;
-  height: 150px;
-  width: 100%;
-}
-
-.conatiner-7-inside{
-  height: 200px;
-}
-
-.container-7-text{
-  text-align: center;
-  width: 100%;
-  font-family: 'Ultra', serif;
-  color: grey;
-  padding-top: 4%;
-  animation-name: lifeatschool;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-direction: alternate-reverse;
-  font-size: 45px;
-}
-@keyframes lifeatschool {
-  from{color: grey;}
-  to{color: orange;}
-}
-
-.container-8-images{
-  text-align: center;
-}
-
-
 
 
 .container-10{

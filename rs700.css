@@ -3,11 +3,7 @@
   nav{
     display: none;
   }
-  .logo-ad{
-    margin-left: 45px;
-    width: 330px;
-    margin-top: 20px;
-  }
+
   .top-header-container{
     min-height:150px;
   }
@@ -61,24 +57,6 @@
   }
 
 
-
-
-  .container-7{
-    width: 700px;
-    height: 300px;
-
-  }
-  .container-7-text{
-    font-size: 65px;
-    padding-top: 0%;
-    padding-left: 3%;
-
-  }
-  .container-8{
-    width: 700px;
-    padding-left: 3%;
-    padding-top: 800px;
-  }
   .container-10{
     width:725px;
     height: 1400px;
