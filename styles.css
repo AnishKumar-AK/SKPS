@@ -368,3 +368,451 @@ nav ul li a:hover{
   background: transparent;
   color: white;
 }
+
+
+
+@media only screen and (max-width:400px) {
+
+  .header-timings{
+    display: block;
+  }
+  nav{
+    display: block;
+  }
+  nav ul{
+    width:365px;
+    background:#710000;
+    position: absolute;
+    top:150px;
+    right: 20px;
+    left: 0%;
+  }
+
+  nav ul li{
+    display: block;
+    margin-right: 0px;
+    padding-right: 2px;
+    margin-left: 3px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+  }
+  nav ul li a{
+    color:white;
+    font-weight: bolder;
+  }
+  .menu-slider{
+    margin-left: 40%;
+    display: block;
+    cursor: pointer;
+    width: 50px;
+    float: left;
+    margin-top: 40px;
+  }
+
+  .top-header-container{
+    min-height:165px;
+    width: 400px;
+  }
+  .container-1{
+    width: 401px;
+    height: 200px;
+  }
+.container-1-background{
+  height: 200px;
+  width: 401px;
+}
+.container-1-background-image{
+  width:100%;
+  height: 300px;
+}
+
+  .container-1-text{
+    display: none;
+    margin-left: 0%;
+    font-size: 20px;
+    padding-right: 13%;
+  }
+  .hr-design{
+    display: none;
+  }
+  hr{
+    display: none;
+  }
+  .container-3{
+    width: 395px;
+    height: 80px
+  }
+  .container-3-text{
+    font-size: 30px;
+    padding-left: 0px;
+  }
+
+  .container-4{
+    width: 395px;
+    padding-left: 0px;
+  }
+  .container-4-text{
+    font-size: 16px;
+  }
+  .container-5{
+    height: 1300px;
+    width: 401px;
+  }
+  .nursury{
+    margin-left: 7%;
+    width: 350px;
+    height: 400px;
+  }
+  .primary{
+    margin-left: 7%;
+    margin-top: 5%;
+    width: 350px;
+    height: 400px;
+  }
+  .juniors{
+    margin-left: 7%;
+    margin-top: 5%;
+    width: 350px;
+    height: 400px;
+  }
+
+  .container-10{
+    width:401px;
+    height: 1300px;
+  }
+  .container-10-address-tab{
+    width: 375px;
+    height: 200px;
+  }
+  .container-10-address-text{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 17px;
+    font-weight: lighter;
+  }
+  .container-10-address-heading{
+    width: 375px;
+    font-size: 20px;
+    padding-left: 15px;
+    text-align:left;
+  }
+  .container-10-aboutus-tab{
+    width: 375px;
+    margin-top: 0px;
+    height: 150px;
+  }
+  .container-10-aboutus-text{
+    text-align: left;
+    padding-left: 30px;
+    font-size: 17px;
+    font-weight: lighter;
+  }
+  .container-10-aboutus-heading{
+    width: 375px;
+    font-size: 20px;
+    padding-left: 30px;
+    text-align:left;
+  }
+  .container-10-ge-tab{
+    width: 375px;
+    height: 200px;
+    margin-top: 0px;
+  }
+  .container-10-ge-text{
+    text-align: left;
+    padding-left: 30px;
+    font-size: 17px;
+    font-weight: lighter;
+  }
+  .container-10-ge-heading{
+    width: 375px;
+    font-size: 20px;
+    padding-left: 30px;
+    text-align:left;
+  }
+  .container-10-follow-tab{
+    width: 375px;
+    height: 250px;
+  }
+  .container-10-follow-text{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 17px;
+    padding-left: 30px;
+    font-weight: lighter;
+  }
+  .container-10-follow-heading{
+    width:375px;
+    font-size: 20px;
+    padding-left: 30px;
+    text-align:left;
+  }
+  .container-10-follow-icons{
+    font-size: 30px;
+    width: 50%;
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom:100px;
+  }
+  .pagetheme-bck{
+    width: 395px;
+    height: 300px;
+  }
+
+  .prince-mess-2:hover{
+    animation: none;
+    background: none;
+  }
+  .prince-mess-2-text:hover{
+    color: orange;
+  }
+
+  .respective-message{
+    font-size: 23px;
+    padding: 0 0 0 0;
+    margin-left: 25px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+  .vpm-mobile{
+    height: 100px;
+    display: block;
+  }
+
+  .span1{
+    display: none;
+  }
+  .prince-mess{
+    font-size: 40px;
+    padding-top: 90px;
+    opacity: 50%;
+    padding-left: 30px;
+  }
+  .prince-mess-2{
+    display: none;
+    padding-left: 30px;
+  }
+  #menulist{
+    overflow: hidden;
+    transition: 0.5s;
+  }
+
+}
+
+
+
+
+
+
+@media only screen and (max-width:700px) {
+  nav{
+    display: none;
+  }
+
+  .top-header-container{
+    min-height:150px;
+  }
+  .container-1{
+    width: 725px;
+    height: 400px;
+  }
+  .container-1-text{
+    margin-left: 20px;
+  }
+  .hr-design{
+    display: none;
+  }
+  hr{
+    display: none;
+  }
+  .container-3{
+    width: 700px;
+  }
+  .container-3-text{
+    font-size: 65px;
+    padding-left: 2%;
+  }
+
+  .container-4{
+    width: 700px;
+  }
+  .container-4-text{
+    font-size: 37px;
+    padding-left: 2%;
+  }
+  .container-5{
+  }
+  .nursury{
+        margin-left: 0%;
+        width: 700px;
+        height: 400px;
+  }
+  .primary{
+    margin-left: 0%;
+    margin-top: 5%;
+    width: 700px;
+    height: 400px;
+  }
+  .juniors{
+    margin-left: 0%;
+    margin-top: 5%;
+    width: 700px;
+    height: 400px;
+    margin-bottom: 8%;
+  }
+
+
+  .container-10{
+    width:725px;
+    height: 1400px;
+  }
+  .container-10-address-tab{
+    width: 700px;
+  }
+  .container-10-address-text{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 28px;
+  }
+  .container-10-address-heading{
+    width: 400px;
+    font-size: 35px;
+    padding-left: 60px;
+    text-align:left;
+  }
+  .container-10-aboutus-tab{
+    width: 700px;
+    margin-top: 70px;
+  }
+  .container-10-aboutus-text{
+    text-align: left;
+    padding-left: 40px;
+    font-size: 28px;
+  }
+  .container-10-aboutus-heading{
+    width: 400px;
+    font-size: 35px;
+    padding-left: 90px;
+    text-align:left;
+  }
+  .container-10-ge-tab{
+    width: 700px;
+  }
+  .container-10-ge-text{
+    text-align: left;
+    padding-left: 40px;
+    font-size: 28px;
+  }
+  .container-10-ge-heading{
+    width: 400px;
+    font-size: 35px;
+    padding-left: 80px;
+    text-align:left;
+  }
+  .container-10-follow-tab{
+    width: 400px;
+  }
+  .container-10-follow-text{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 28px;
+    padding-left: 40px;
+  }
+  .container-10-follow-heading{
+    width: 375px;
+    font-size: 35px;
+    padding-left: 80px;
+    text-align:left;
+  }
+  .container-10-follow-icons{
+    font-size: 60px;
+    width: 60%;
+    height: 10px;
+    margin-top: 0px;
+    margin-bottom: 120px;
+  }
+  .pagetheme-bck{
+    width: 725px;
+  }
+
+}
+
+
+
+
+
+@media only screen and (max-width:1043px) {
+  .logo-ad{
+    margin-left: 5px;
+  }
+  .nursury{
+    margin-left: 7%;
+    height: 430px;
+  }
+  .nursury-div{
+    height: 350px;
+  }
+  .primary{
+    margin-left: 7%;
+    height: 430px;
+  }
+  .primary-div{
+    height:350px;
+  }
+  .juniors{
+    margin-left: 7%;
+    height: 430px;
+  }
+  .juniors-div{
+    height: 350px;
+  }
+}
+
+@media only screen and (max-width:925px) {
+  nav ul li{
+    margin-right: 40px;
+  }
+
+
+}
+
+@media  only screen and (max-width:775px){
+  nav ul li{
+    margin-right: 20px;
+  }
+
+}
+
+@media  only screen and (max-width:1077px){
+  .container-1-text{
+    margin-left: 300px;
+  }
+}
+@media  only screen and (max-width:878px){
+  .container-1-text{
+    margin-left: 150px;
+  }
+
+}
+
+@media  only screen and (max-width:727px){
+  .container-1-text{
+    margin-left: 70px;
+  }
+}
+
+@media only screen and (max-width:1177px) {
+  .prince-mess-2{
+    margin-left: 17%;
+  }
+  .prince-mess-2-inside{
+    margin-left: 0%;
+    width: 88%;
+  }
+  .vice-prince-mess{
+    display: none;
+  }
+  .prince-mess-hr{
+    display: none;
+  }
+}
