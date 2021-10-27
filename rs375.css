@@ -1,6 +1,8 @@
 
 @media only screen and (max-width:384px) {
-
+body{
+  width: 384px;
+}
   .header-timings{
     display: block;
     width: 384px;
