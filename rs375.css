@@ -1,5 +1,5 @@
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:384px) {
 
   .header-timings{
     display: block;
@@ -8,7 +8,7 @@
     display: block;
   }
   nav ul{
-    width:365px;
+    width:384px;
     background:#710000;
     position: absolute;
     top:150px;
@@ -39,15 +39,15 @@
 
   .top-header-container{
     min-height:165px;
-    width: 400px;
+    width:384px;
   }
   .container-1{
-    width: 401px;
+    width: 384px;
     height: 200px;
   }
 .container-1-background{
   height: 200px;
-  width: 401px;
+  width: 384px;
 }
 .container-1-background-image{
   width:100%;
@@ -67,7 +67,7 @@
     display: none;
   }
   .container-3{
-    width: 395px;
+    width: 384px;
     height: 80px;
   }
   .container-3-text{
@@ -76,7 +76,7 @@
   }
 
   .container-4{
-    width: 395px;
+    width: 384px;
     padding-left: 0px;
   }
   .container-4-text{
@@ -84,7 +84,7 @@
   }
   .container-5{
     height: 1300px;
-    width: 401px;
+    width: 384px;
   }
   .nursury{
     margin-left: 7%;
@@ -105,11 +105,11 @@
   }
 
   .container-10{
-    width:401px;
+    width:384px;
     height: 1300px;
   }
   .container-10-address-tab{
-    width: 375px;
+    width: 384px;
     height: 200px;
   }
   .container-10-address-text{
@@ -119,13 +119,13 @@
     font-weight: lighter;
   }
   .container-10-address-heading{
-    width: 375px;
+    width: 384px;
     font-size: 20px;
     padding-left: 15px;
     text-align:left;
   }
   .container-10-aboutus-tab{
-    width: 375px;
+    width: 384px;
     margin-top: 0px;
     height: 150px;
   }
@@ -136,13 +136,13 @@
     font-weight: lighter;
   }
   .container-10-aboutus-heading{
-    width: 375px;
+    width: 384px;
     font-size: 20px;
     padding-left: 30px;
     text-align:left;
   }
   .container-10-ge-tab{
-    width: 375px;
+    width:384px;
     height: 200px;
     margin-top: 0px;
   }
@@ -153,13 +153,13 @@
     font-weight: lighter;
   }
   .container-10-ge-heading{
-    width: 375px;
+    width: 384px;
     font-size: 20px;
     padding-left: 30px;
     text-align:left;
   }
   .container-10-follow-tab{
-    width: 375px;
+    width: 384px;
     height: 250px;
   }
   .container-10-follow-text{
@@ -170,7 +170,7 @@
     font-weight: lighter;
   }
   .container-10-follow-heading{
-    width:375px;
+    width:384px;
     font-size: 20px;
     padding-left: 30px;
     text-align:left;
@@ -183,7 +183,7 @@
     margin-bottom:100px;
   }
   .pagetheme-bck{
-    width: 395px;
+    width: 384px;
     height: 300px;
   }
 
