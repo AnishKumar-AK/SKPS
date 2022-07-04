@@ -3,6 +3,10 @@ margin:0;
 padding: 0;
 font-family: sans-serif;
 }
+.desktoponly{
+  display:none;
+}
+
 .header-timings{
   background-color: #181e1f ;
   height: 50px;
