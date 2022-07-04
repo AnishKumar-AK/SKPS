@@ -148,6 +148,33 @@ nav ul li a:hover{
   background-repeat: no-repeat;
   background-color: #f8b617;
   width: 100%;
+  animation-name: slides;
+  animation-duration: 15s;
+  animation-iteration-count:infinite;
+  animation-direction:alternate-reverse;
+}
+@keyframes slides{
+
+  100%{
+    background-image: url("images/bckg.png");
+    background-color:#f8b617 ;
+
+  }
+  60%{
+    background-image: url("images/bckg.png");
+    background-color:#f8b617 ;
+
+  }
+
+  
+  40%{
+    background-image: url("images/aboutusimage3.png");
+    background-color: white;
+  }
+  0%{
+    background-image: url("images/aboutusimage3.png");
+    background-color: white;
+  }
 }
 .aboutus-in-homepage-0{
     height: 300px;
